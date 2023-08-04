@@ -60,10 +60,10 @@ Shell 进入仓库目录
 
 应该可以看到生成了符合最终提交结构的文件夹结构 `xxxxx班材料`
 
-修改 `summerize.py` 中 `class_id` 变量
+修改 `summarize.py` 中 `class_id` 变量
 
 ```
-python ./summerize.py
+python ./summarize.py
 ```
 
 生成班级汇总的表格，最后再**人工添加一下表头调整一下格式**，勘误材料。
